@@ -1,4 +1,4 @@
-# ML Fundamentals Exercises
+# ML Fundamental Algorithms Exercises
 Welcome to the ML Fundamentals Exercises repository! This collection provides exercises, implementations, and in-depth explanations of fundamental machine learning algorithms. Whether you are a beginner or looking to refresh your knowledge, this repository is designed to guide you through the core concepts of ML with practical examples.
 
 ## 📌 Repository Objectives

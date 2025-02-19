@@ -20,11 +20,11 @@ Welcome to the ML Fundamentals Exercises repository! This collection provides ex
 
   - Python 
   - Libraries:
-  - numpy
-  - pandas
-  - matplotlib
-  - scikit-learn
-  - seaborn
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - seaborn
 
 <h2>📜 Useful Commands</h2>
     <p>Here are some commands to get started with this repository:</p>

@@ -34,8 +34,8 @@ Welcome to the ML Fundamentals Exercises repository! This collection provides ex
     <pre><code>jupyter notebook</code></pre>
     <h2>⚙️ Running Specific Algorithms</h2>
     <p>Navigate to a specific directory and run the exercises:</p>
-    <pre><code>cd Linear_Regression</code></pre>
-    <pre><code>python linear_regression.py</code></pre>
+    <pre><code>cd dir_name (eg. Linear_Regression)</code></pre>
+    <pre><code>python file_name (eg. linear_regression.py)</code></pre>
 
 ## 🤝 Contributions
 

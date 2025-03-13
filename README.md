@@ -15,6 +15,7 @@ Welcome to the ML Fundamentals Exercises repository! This collection provides ex
 ## 📘 Included Algorithms
 
 - Linear Regression
+- Logistic Regression
 
 ## 🛠️ Prerequisites
 
